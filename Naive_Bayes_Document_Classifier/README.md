@@ -8,6 +8,7 @@
 - We used the model:
 	![](https://latex.codecogs.com/gif.latex?P%28Y%20%7C%20X_1%2C%5Ccdots%2CX_n%29%20%5Cpropto%20P%28X_1%20...X_n%20%7C%20Y%20%29%7EP%28Y%29%20%3D%20P%28Y%29%20%5Cprod_%7Bi%3D1%7D%5Em%20P%28X_i%20%7C%20Y%29)
 	
+	
 	with additional assumption that
 	
 	![](https://latex.codecogs.com/gif.latex?%5Cforall%20i%2Cj%7E%7E%20P%20%28X_i%20%7C%20Y%29%20%3D%20p%28X_j%20%7C%20Y%29)
