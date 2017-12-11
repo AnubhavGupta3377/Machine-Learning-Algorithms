@@ -15,9 +15,12 @@
 									 
 - In our implementation, we estimated ![](https://latex.codecogs.com/gif.latex?P%28Y%29) using the MLE, and estimated ![](https://latex.codecogs.com/gif.latex?P%28X%7CY%29) using a MAP estimate with the prior distribution ![](https://latex.codecogs.com/gif.latex?%5Ctext%7BDirichlet%7D%281&plus;%5Calpha%2C%5Ccdots%2C%201%20&plus;%20%5Calpha%29),
 
-	where ![](https://latex.codecogs.com/gif.latex?%5Calpha%20%3D%20%5Cfrac%7B1%7D%7B%7CV%7C%7D) and V is vocabulary.
+	where  ![](https://latex.codecogs.com/gif.latex?%5Calpha%20%3D%20%5Cfrac%7B1%7D%7B%7CV%7C%7D) and V is vocabulary.
     
 - We also experimented with different values of ![](https://latex.codecogs.com/gif.latex?%5Calpha).
 
 ## Author
 - **Anubhav Gupta**
+
+## Prerequisites
+- Python 2.7
