@@ -21,3 +21,6 @@ or tabs allowed between words.  However, reasonably, a line cannot contain newli
 
 ## Author
 - **Anubhav Gupta**
+
+## Prerequisites
+- Python 2.7
